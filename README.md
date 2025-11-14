@@ -86,3 +86,78 @@ Regenerate:
 ```
 
 ---
+
+### **Change the start date**
+
+Edit:
+
+```python
+START_DATE = datetime(2025, 11, 17, tzinfo=TZ)
+```
+
+Set any year/month/day — weekends automatically skipped.
+
+Regenerate:
+
+```bash
+./run.sh
+```
+
+---
+
+### **Edit the task list**
+
+Inside `generate_calendar.py`:
+
+```python
+tasks = [
+    "[Day 1] Python Ch 1: Intro",
+    "[Day 2] Python Ch 2: Variables & Expressions",
+    ...
+    "[Day 90] FINAL MILESTONE: 2 AI Apps Live + Portfolio"
+]
+```
+
+You can:
+
+- Replace tasks  
+- Add more tasks  
+- Remove tasks  
+
+Each task becomes one event.
+
+Regenerate:
+
+```bash
+./run.sh
+```
+
+---
+
+## 🛠 Updating the Repository
+
+To push your changes to GitHub:
+
+```bash
+git status
+git add .
+git commit -m "Your update description"
+git push
+```
+
+---
+
+## 📁 Project Files
+
+| File | Description |
+|------|-------------|
+| `generate_calendar.py` | Main script that builds the 90-day calendar |
+| `run.sh` | One-click generator script |
+| `ai_learning_calendar.ics` | Generated iCalendar file |
+| `README.md` | Project overview & instructions |
+
+---
+
+## 🎉 Happy Learning!
+
+This project helps structure a consistent 90-day learning plan to build strong foundations in Python, ML, and AI tools — all delivered directly to your calendar.
