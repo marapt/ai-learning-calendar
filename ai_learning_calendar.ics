@@ -1,0 +1,725 @@
+BEGIN:VCALENDAR
+X-WR-TIMEZONE:America/Los_Angeles
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251208T180000Z
+DTSTART:20251208T170000Z
+SUMMARY:[Day 16] Khan: Vector Operations
+UID:6622e522-5058-49d7-b81a-df5e76613921@6622.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251201T180000Z
+DTSTART:20251201T170000Z
+SUMMARY:[Day 11] Kaggle Lesson 4: Lists
+UID:e5aa846d-3877-4b1a-9ea3-cfaa8ec802dc@e5aa.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251210T180000Z
+DTSTART:20251210T170000Z
+SUMMARY:[Day 18] Khan: Matrices Intro
+UID:bccf7a37-e7e7-4a53-93a4-cba75efc1d87@bccf.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260223T180000Z
+DTSTART:20260223T170000Z
+SUMMARY:[Day 71] Streamlit: Text Input
+UID:e5f99db3-8766-4f5d-82f6-c5f1493b3ce7@e5f9.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251212T180000Z
+DTSTART:20251212T170000Z
+SUMMARY:[Day 20] 3B1B: Chain Rule
+UID:49de2ec9-74ae-48ab-8905-71c58ebad324@49de.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260112T180000Z
+DTSTART:20260112T170000Z
+SUMMARY:[Day 41] Kaggle Intermediate ML: Lesson 5
+UID:9c49635a-8820-4b1b-b737-48854017a294@9c49.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260129T180000Z
+DTSTART:20260129T170000Z
+SUMMARY:[Day 54] fast.ai: Lesson 1 Setup
+UID:51a6c1c5-3ee3-4054-ba29-af290859e931@51a6.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260114T180000Z
+DTSTART:20260114T170000Z
+SUMMARY:[Day 43] Fork Titanic Competition
+UID:d459bfda-b775-4ca1-a222-e3ecb70047b9@d459.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260205T180000Z
+DTSTART:20260205T170000Z
+SUMMARY:[Day 59] Build Pet Classifier
+UID:afe27522-1302-4fd3-a783-52d4d627dc8c@afe2.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260217T180000Z
+DTSTART:20260217T170000Z
+SUMMARY:[Day 67] Streamlit: Setup & Hello World
+UID:45b0dd44-ef30-4e09-9fb6-e62fd36ed54e@45b0.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251117T180000Z
+DTSTART:20251117T170000Z
+SUMMARY:[Day 1] Python Ch 1: Intro
+UID:dbd93c96-a9ba-4668-87d4-b021d0995a49@dbd9.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260101T180000Z
+DTSTART:20260101T170000Z
+SUMMARY:[Day 34] Andrew Ng: Computing Parameters
+UID:0365fec9-ca7b-445c-8838-cbf8c29b1302@0365.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260128T180000Z
+DTSTART:20260128T170000Z
+SUMMARY:[Day 53] Kaggle: Final Submission
+UID:23563a41-1b3c-44f7-a166-b04136d235ac@2356.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260306T180000Z
+DTSTART:20260306T170000Z
+SUMMARY:[Day 80] Share on X/Twitter
+UID:e76b27a9-d780-4a0e-907f-6694c31f7af9@e76b.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260102T180000Z
+DTSTART:20260102T170000Z
+SUMMARY:[Day 35] Andrew Ng: Normal Equation
+UID:5cbc9670-7c74-453d-8b0b-9bf1465d5b9d@5cbc.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260107T180000Z
+DTSTART:20260107T170000Z
+SUMMARY:[Day 38] Kaggle Intermediate ML: Lesson 2
+UID:d6c6c139-709e-4a53-81c2-7bacc471ae00@d6c6.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260122T180000Z
+DTSTART:20260122T170000Z
+SUMMARY:[Day 49] Kaggle: Cross-Validation
+UID:3b403d22-d827-4201-a392-aff35d677c00@3b40.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260305T180000Z
+DTSTART:20260305T170000Z
+SUMMARY:[Day 79] Share on LinkedIn
+UID:637a8d88-b26f-4672-89dc-c4b4a98ef443@637a.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251222T180000Z
+DTSTART:20251222T170000Z
+SUMMARY:[Day 26] Pandas: Filtering & Grouping
+UID:c179711b-a785-4f98-bb52-8d883c2f79a0@c179.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260105T180000Z
+DTSTART:20260105T170000Z
+SUMMARY:[Day 36] Finish Kaggle Intro to ML
+UID:6eda49bf-35cc-4f95-bf3e-3447d742b12d@6eda.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260218T180000Z
+DTSTART:20260218T170000Z
+SUMMARY:[Day 68] Streamlit: Image Upload
+UID:1ed354be-6747-43e2-9f09-0d2ef17c38cb@1ed3.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260319T170000Z
+DTSTART:20260319T160000Z
+SUMMARY:[Day 89] Celebrate!
+UID:5b7bb6f0-9422-4722-88b6-ed72f2805ebe@5b7b.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260310T170000Z
+DTSTART:20260310T160000Z
+SUMMARY:[Day 82] Fix Bugs
+UID:516c968c-6756-4f44-b689-3ad480a2245d@516c.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260227T180000Z
+DTSTART:20260227T170000Z
+SUMMARY:[Day 75] GitHub: Add README
+UID:d7393ad8-1c62-40c4-a7ca-1d5dc08cd56d@d739.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251202T180000Z
+DTSTART:20251202T170000Z
+SUMMARY:[Day 12] Kaggle Lesson 5: Loops & Comprehensions
+UID:53d46620-65d1-46ed-9d04-dab1c2d99422@53d4.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260320T170000Z
+DTSTART:20260320T160000Z
+SUMMARY:[Day 90] FINAL MILESTONE: 2 AI Apps Live + Portfolio
+UID:2f3d4a7c-d5af-43c2-901a-6c40999923e8@2f3d.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251209T180000Z
+DTSTART:20251209T170000Z
+SUMMARY:[Day 17] 3B1B: Derivative Intro
+UID:9df3a6fe-75f5-4064-86fb-111d8ca01ebe@9df3.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251223T180000Z
+DTSTART:20251223T170000Z
+SUMMARY:[Day 27] Load Titanic CSV to df.head()
+UID:1b69efb6-628c-4526-8b35-d6aa7c5d89f4@1b69.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260204T180000Z
+DTSTART:20260204T170000Z
+SUMMARY:[Day 58] fast.ai: Lesson 4 - Deploy
+UID:2df16b99-9af1-40c2-b635-4356d8ab1276@2df1.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260219T180000Z
+DTSTART:20260219T170000Z
+SUMMARY:[Day 69] Streamlit: Connect Model
+UID:28838736-8bbe-4bfd-bd5c-296737e3b159@2883.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260113T180000Z
+DTSTART:20260113T170000Z
+SUMMARY:[Day 42] Kaggle Intermediate ML: Lesson 6
+UID:58519c8a-2b99-4249-b7e8-604e1685bb58@5851.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260313T170000Z
+DTSTART:20260313T160000Z
+SUMMARY:[Day 85] Record Demo Video
+UID:5f97f786-ff31-486e-be52-a55935953238@5f97.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260312T170000Z
+DTSTART:20260312T160000Z
+SUMMARY:[Day 84] Publish Blog
+UID:c1472efb-aa36-4d4c-a1c8-e4783de658fd@c147.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251204T180000Z
+DTSTART:20251204T170000Z
+SUMMARY:[Day 14] Finish Kaggle Python + Earn Badge
+UID:ae94b92a-cd11-43eb-a6cd-41afcf7331a6@ae94.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251229T180000Z
+DTSTART:20251229T170000Z
+SUMMARY:[Day 31] Andrew Ng: Cost Function
+UID:98312f21-5b84-402e-9c53-0111fe4f94fd@9831.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251203T180000Z
+DTSTART:20251203T170000Z
+SUMMARY:[Day 13] Kaggle Lesson 6: Strings & Dicts
+UID:4cbcfbbb-e70a-4030-94be-4b0939cc0edd@4cbc.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260216T180000Z
+DTSTART:20260216T170000Z
+SUMMARY:[Day 66] Build Text Classifier
+UID:4a692bb0-bcb7-4798-b1fd-214cc0395103@4a69.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260211T180000Z
+DTSTART:20260211T170000Z
+SUMMARY:[Day 63] Hugging Face: Ch 3 - Models
+UID:797b3513-6521-4072-aca0-fd08bfe9ff75@797b.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260109T180000Z
+DTSTART:20260109T170000Z
+SUMMARY:[Day 40] Kaggle Intermediate ML: Lesson 4
+UID:ac07f688-d0c0-4d1b-ab81-5a1169f8ee28@ac07.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260220T180000Z
+DTSTART:20260220T170000Z
+SUMMARY:[Day 70] Deploy Image App
+UID:33d2628a-e261-4a7f-82d2-4823ad10c69c@33d2.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260226T180000Z
+DTSTART:20260226T170000Z
+SUMMARY:[Day 74] GitHub: Create Repo
+UID:aded4dc9-1974-40dd-bf7f-22c1a20a199a@aded.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251118T180000Z
+DTSTART:20251118T170000Z
+SUMMARY:[Day 2] Python Ch 2: Variables & Expressions
+UID:92c081cd-31b2-4d09-8550-743c66783a53@92c0.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251218T180000Z
+DTSTART:20251218T170000Z
+SUMMARY:[Day 24] NumPy: Indexing & Broadcasting
+UID:5a2d24d9-1db4-4970-a84a-2c653988f428@5a2d.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251125T180000Z
+DTSTART:20251125T170000Z
+SUMMARY:[Day 7] Mini-Project: Build Calculator in Colab
+UID:89c0fc6b-7d11-4c46-a97e-99911cb20c3f@89c0.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260202T180000Z
+DTSTART:20260202T170000Z
+SUMMARY:[Day 56] fast.ai: Lesson 2 - Data Block
+UID:449420e3-f2b3-4d19-8ba9-c09287e2a2ee@4494.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251124T180000Z
+DTSTART:20251124T170000Z
+SUMMARY:[Day 6] Python Ch 6: Strings
+UID:de945404-0a76-406b-b521-9b5aac075b25@de94.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260316T170000Z
+DTSTART:20260316T160000Z
+SUMMARY:[Day 86] Upload to YouTube
+UID:62753c58-a027-40aa-a712-933105fcedfa@6275.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260209T180000Z
+DTSTART:20260209T170000Z
+SUMMARY:[Day 61] Hugging Face: Ch 1 - Intro
+UID:25a9cea0-0e35-4b1c-b954-00f1644fedbc@25a9.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260119T180000Z
+DTSTART:20260119T170000Z
+SUMMARY:[Day 46] Try Random Forest
+UID:e22b303f-48eb-4a35-ba02-56465bb4a5e7@e22b.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260309T170000Z
+DTSTART:20260309T160000Z
+SUMMARY:[Day 81] Review All Code
+UID:37e30af7-83e2-470d-aa29-53ef39ec747a@37e3.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260302T180000Z
+DTSTART:20260302T170000Z
+SUMMARY:[Day 76] GitHub: Push Code
+UID:5f4f8aed-3ddc-4b2b-8a7f-2b23234a3f69@5f4f.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260106T180000Z
+DTSTART:20260106T170000Z
+SUMMARY:[Day 37] Kaggle Intermediate ML: Lesson 1
+UID:be501f90-b25f-4e25-b198-07e742e553aa@be50.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251231T180000Z
+DTSTART:20251231T170000Z
+SUMMARY:[Day 33] Andrew Ng: Multivariate Linear Reg
+UID:c4a563f1-5066-4b06-bb0a-373f09046d39@c4a5.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260224T180000Z
+DTSTART:20260224T170000Z
+SUMMARY:[Day 72] Connect HF Model
+UID:2baec22c-7176-44c1-aef2-5631e5871fd8@2bae.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251226T180000Z
+DTSTART:20251226T170000Z
+SUMMARY:[Day 30] Andrew Ng: Linear Regression
+UID:9320d949-6425-4a29-8e7b-a70879989f88@9320.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251120T180000Z
+DTSTART:20251120T170000Z
+SUMMARY:[Day 4] Python Ch 4: Functions
+UID:e3749883-9329-4996-b371-f68a3643c236@e374.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251217T180000Z
+DTSTART:20251217T170000Z
+SUMMARY:[Day 23] NumPy Quickstart: Arrays
+UID:6776ab89-c134-4929-9104-00c408646437@6776.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251215T180000Z
+DTSTART:20251215T170000Z
+SUMMARY:[Day 21] Explain Gradient in 1 Min (Voice Note)
+UID:da5383ae-cfce-4138-adfd-036cd1776a90@da53.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251127T180000Z
+DTSTART:20251127T170000Z
+SUMMARY:[Day 9] Kaggle Lesson 2: Functions & Syntax
+UID:de1ea697-0af9-440a-81da-25ab30d7483c@de1e.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260123T180000Z
+DTSTART:20260123T170000Z
+SUMMARY:[Day 50] Kaggle: Pipelines
+UID:1dc56975-5b5d-4eaa-8460-37ec55b4d83a@1dc5.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260212T180000Z
+DTSTART:20260212T170000Z
+SUMMARY:[Day 64] Hugging Face: Ch 4 - Fine-tuning
+UID:ba0e87f4-c294-4986-a08f-d45960dcccdc@ba0e.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251219T180000Z
+DTSTART:20251219T170000Z
+SUMMARY:[Day 25] Pandas 10-min Guide
+UID:d8c1ab0c-4c3c-49e9-b9f2-d3df4ba34b0b@d8c1.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260126T180000Z
+DTSTART:20260126T170000Z
+SUMMARY:[Day 51] Kaggle: Feature Engineering
+UID:40873c09-031f-4735-a461-641e03483355@4087.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251224T180000Z
+DTSTART:20251224T170000Z
+SUMMARY:[Day 28] MILESTONE: Share Colab df.describe()
+UID:4c95e877-75a0-40c8-8994-f8709bed7f59@4c95.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251225T180000Z
+DTSTART:20251225T170000Z
+SUMMARY:[Day 29] Andrew Ng Week 1: Intro
+UID:8457ccde-84cc-46a6-8e87-e6938648157c@8457.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260318T170000Z
+DTSTART:20260318T160000Z
+SUMMARY:[Day 88] Apply to 3 AI Roles
+UID:b11bd022-7694-4856-bbbc-c3a068637c39@b11b.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260120T180000Z
+DTSTART:20260120T170000Z
+SUMMARY:[Day 47] Try XGBoost
+UID:1d502df8-9335-4e80-b067-d465471d92e4@1d50.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251211T180000Z
+DTSTART:20251211T170000Z
+SUMMARY:[Day 19] Khan: Matrix Multiplication
+UID:6bf996e0-e8a2-40bf-9ac7-999cc7b526bf@6bf9.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260115T180000Z
+DTSTART:20260115T170000Z
+SUMMARY:[Day 44] EDA: nulls + plots
+UID:9025ac89-afb7-4100-865c-f1b156b9937d@9025.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251121T180000Z
+DTSTART:20251121T170000Z
+SUMMARY:[Day 5] Python Ch 5: Loops & Iteration
+UID:d97f43ec-2d62-4f06-8f13-655a857ba8ea@d97f.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260121T180000Z
+DTSTART:20260121T170000Z
+SUMMARY:[Day 48] Submit Best Model (>0.78)
+UID:10b782f3-77c0-4781-8fb6-a788712343b2@10b7.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260206T180000Z
+DTSTART:20260206T170000Z
+SUMMARY:[Day 60] Export Model (.pkl)
+UID:4f84bec9-9a8a-4d1f-a9d3-b06b19c89a2f@4f84.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251216T180000Z
+DTSTART:20251216T170000Z
+SUMMARY:[Day 22] Install Anaconda + VS Code
+UID:cfc5753f-8da1-447b-be74-e63bec5cba3e@cfc5.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251128T180000Z
+DTSTART:20251128T170000Z
+SUMMARY:[Day 10] Kaggle Lesson 3: Booleans & Conditionals
+UID:d92bb1bd-acca-4f99-b7d7-b55d988a32ef@d92b.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260225T180000Z
+DTSTART:20260225T170000Z
+SUMMARY:[Day 73] Deploy Text App
+UID:8c2d7b74-b4a3-4317-ac18-128087434f26@8c2d.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251126T180000Z
+DTSTART:20251126T170000Z
+SUMMARY:[Day 8] Kaggle Python Lesson 1: Hello Python
+UID:2c2c2879-48ae-4c3d-9351-9fa8e4529fea@2c2c.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260304T180000Z
+DTSTART:20260304T170000Z
+SUMMARY:[Day 78] Finalize Portfolio
+UID:d4a0c3bb-cbb5-4d38-95ef-484b028516f0@d4a0.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251205T180000Z
+DTSTART:20251205T170000Z
+SUMMARY:[Day 15] Khan: Vectors Intro
+UID:5f59a56a-cee7-434e-8831-c8dc90471e2b@5f59.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260108T180000Z
+DTSTART:20260108T170000Z
+SUMMARY:[Day 39] Kaggle Intermediate ML: Lesson 3
+UID:2d27c50a-b062-42a3-b2f3-544e6a4d5af5@2d27.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260210T180000Z
+DTSTART:20260210T170000Z
+SUMMARY:[Day 62] Hugging Face: Ch 2 - Tokenizers
+UID:3cfa9509-1a0c-4bc3-8bbd-80c51c7dbc96@3cfa.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251230T180000Z
+DTSTART:20251230T170000Z
+SUMMARY:[Day 32] Andrew Ng: Gradient Descent
+UID:6069e4f1-b2bf-4329-bcce-56d525e976f3@6069.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260311T170000Z
+DTSTART:20260311T160000Z
+SUMMARY:[Day 83] Write Blog Post
+UID:85e3de0f-c7c1-42f9-982b-a182f552af00@85e3.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260303T180000Z
+DTSTART:20260303T170000Z
+SUMMARY:[Day 77] GitHub: Add Screenshots
+UID:e228ad34-cccb-488f-81f2-d0c9a1d179a9@e228.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260317T170000Z
+DTSTART:20260317T160000Z
+SUMMARY:[Day 87] Update Resume
+UID:57e5a865-628e-4eba-a4c9-d66c8195acf8@57e5.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260116T180000Z
+DTSTART:20260116T170000Z
+SUMMARY:[Day 45] Train Logistic Regression to Submit
+UID:58de7258-1ebd-48fc-8c77-7e8ecafc104f@58de.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260203T180000Z
+DTSTART:20260203T170000Z
+SUMMARY:[Day 57] fast.ai: Lesson 3 - Training
+UID:5d0c3da6-4543-46aa-9435-196caba01b5f@5d0c.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20251119T180000Z
+DTSTART:20251119T170000Z
+SUMMARY:[Day 3] Python Ch 3: Conditional Code
+UID:2c5c93b9-5024-4545-b9f5-90a057c04561@2c5c.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260127T180000Z
+DTSTART:20260127T170000Z
+SUMMARY:[Day 52] Kaggle: Model Tuning
+UID:437c9f63-b9cd-4958-acc7-6130af138c1a@437c.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260213T180000Z
+DTSTART:20260213T170000Z
+SUMMARY:[Day 65] Hugging Face: Ch 5 - Pipelines
+UID:4dbfe4ea-0536-4ba9-adfb-797874bb8921@4dbf.org
+END:VEVENT
+BEGIN:VEVENT
+{'action': 'DISPLAY', 'description': 'Time to learn!', 'trigger': '-PT1M'}
+DESCRIPTION:90-Day AI Plan\nhttps://github.com/marapt/ai-learning-calendar
+DTEND:20260130T180000Z
+DTSTART:20260130T170000Z
+SUMMARY:[Day 55] fast.ai: Lesson 1 - First Model
+UID:838270dd-8086-4c3b-ba9b-5902b5d9c7be@8382.org
+END:VEVENT
+END:VCALENDAR
